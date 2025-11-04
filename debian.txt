@@ -1,3 +1,2 @@
-deb.debian.org
-ftp.debian.org
+cdn-fastly.deb.debian.org
 security.debian.org
