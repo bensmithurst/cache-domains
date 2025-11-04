@@ -31,11 +31,6 @@
       "domain_files": ["daybreak.txt"]
     },
     {
-      "name": "debian",
-      "description": "Debian package mirror",
-      "domain_files": ["debian.txt"]
-    },
-    {
       "name": "epicgames",
       "description": "CDN for Epic Games",
       "domain_files": ["epicgames.txt"]
